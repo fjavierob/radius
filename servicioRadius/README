@@ -1,0 +1,26 @@
+#####################################################################
+
+Trabajo RMI Servicios Distribuidos y Servicios Web
+
+Integrantes del grupo:
+
+	Fco Javier Ortiz Bonilla
+
+	Domingo Fernandez Piriz
+
+Compilacion de las tres entidades:
+
+	make compile
+
+Ejecucion de cada clase con metodo main:
+
+	Para el cliente -> make run_cliente ARGS_CLIENTE=
+	Para el AP -> make run_ap ARGS_AP=
+	Para el Servidor Radius -> make run_servidor ARGS_SERVIDOR=
+
+Para el comando rmiregistry, es necesario ejecutarlo dentro del
+directorio ./bin
+
+Detalles del servicio implementado en la memoria del trabajo.
+
+#####################################################################
