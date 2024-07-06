@@ -25,5 +25,5 @@ Consultar el fichero **memoria.pdf**
 
 ## Autores
 
-* **Francisco Javier  Ortiz Bonilla** - [Pogorelich](https://github.com/pogorelich)
+* **Francisco Javier  Ortiz Bonilla** - [fjavierob](https://github.com/fjavierob)
 * **Domingo Fernández Píriz**
